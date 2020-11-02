@@ -1,6 +1,6 @@
 # BlackBelt
 A quick summary of statistical methods used for my Six Sigma Black Belt project
-  In 2007, I had finished six sigma training and completed the exam, but was searching for a final project for certification. 
+    In 2007, I had finished six sigma training and completed the exam, but was searching for a final project for certification. 
   Some months later, I had the opportunity;
 a plant manager (my boss) at an employer claimed that cycle counters under my supervision were miscounting raw materials and WIP inventory in the facility, causing 'lost' inventory on the books.  Cycle counters are people who, usually on 2nd shift, will move around a warehouse and sample count inventory to verify materials accuracy.  The process is tedious, expensive, and at the end of the day, non-value added.    The plant manager also claimed to be able to quantify the loss.    
   So, I had responsibility for the cycle counters under my supervision, as well as financial responsibility for inventory levels.
